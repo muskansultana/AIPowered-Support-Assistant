@@ -73,6 +73,18 @@ A full-stack AI-powered customer support chatbot application built with React, N
   - Clean JSON error responses
   - User-friendly error messages in UI
 
+<img width="208" height="704" alt="frontend structure" src="https://github.com/user-attachments/assets/379e67fd-53e1-4fb7-8f9f-9cce8ebd4a39" />
+<img width="197" height="611" alt="backend structure" src="https://github.com/user-attachments/assets/d324e7f0-6a87-4f63-81e2-d001ed6586f7" />
+<img width="1600" height="900" alt="database-schema png" src="https://github.com/user-attachments/assets/43a05caf-6906-487a-a752-1c3dc7f11193" />
+<img width="1600" height="900" alt="chat end point" src="https://github.com/user-attachments/assets/91be9922-314b-41c1-a589-d203c098bc45" />
+<img width="1600" height="900" alt="chat end point" src="https://github.com/user-attachments/assets/22c304bb-ce17-45bc-bd38-ca4f2ca6c9c6" />
+<img width="1600" height="900" alt="chat end point" src="https://github.com/user-attachments/assets/5f78f758-815b-4d32-86fb-6f22157ca807" />
+<img width="1600" height="900" alt="chatbot ui" src="https://github.com/user-attachments/assets/b9f47784-e6ee-4c7f-9652-72285c9ebdde" />
+<img width="1600" height="900" alt="chatbot 1" src="https://github.com/user-attachments/assets/938fb8c3-2fcb-49b4-922e-e94a2de9b13b" />
+<img width="1600" height="900" alt="chatbot 2" src="https://github.com/user-attachments/assets/efcb02c0-33ad-42d7-834a-78cc4f59bb01" />
+
+
+
 ---
 
 ## 🏗️ Project Structure
