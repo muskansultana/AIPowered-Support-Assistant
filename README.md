@@ -503,7 +503,7 @@ REACT_APP_API_URL=http://localhost:8000/api
 
 ### Backend
 ```bash
-cd chat-backend
+cd backend
 
 # Development mode (auto-reload)
 npm run dev
