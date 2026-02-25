@@ -1,0 +1,52 @@
+[
+  {
+    "id": "reset-password",
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. Click on 'Forgot Password' and follow the email instructions. The reset link expires in 24 hours."
+  },
+  {
+    "id": "refund-policy",
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase. To request a refund, go to Orders > Select Order > Request Refund. Refunds are processed within 5-7 business days."
+  },
+  {
+    "id": "account-deletion",
+    "title": "Delete Account",
+    "content": "To delete your account, go to Settings > Account > Delete Account. This action is permanent and cannot be undone. All your data will be removed within 30 days."
+  },
+  {
+    "id": "shipping-info",
+    "title": "Shipping Information",
+    "content": "We offer free shipping on orders above $50. Standard shipping takes 5-7 business days. Express shipping (2-3 days) is available for an additional fee."
+  },
+  {
+    "id": "payment-methods",
+    "title": "Payment Methods",
+    "content": "We accept credit cards (Visa, MasterCard, Amex), debit cards, PayPal, and Apple Pay. All payments are processed securely through our payment gateway."
+  },
+  {
+    "id": "contact-support",
+    "title": "Contact Support",
+    "content": "You can reach our support team via email at support@example.com or through the live chat on our website. Support hours are Monday-Friday, 9 AM - 6 PM EST."
+  },
+  {
+    "id": "track-order",
+    "title": "Track Order",
+    "content": "To track your order, go to Orders section and click on the order number. You'll see real-time tracking information. You'll also receive tracking updates via email."
+  },
+  {
+    "id": "change-email",
+    "title": "Change Email Address",
+    "content": "To change your email address, go to Settings > Account > Email. Enter your new email and verify it through the confirmation link sent to your new email address."
+  },
+  {
+    "id": "subscription-cancel",
+    "title": "Cancel Subscription",
+    "content": "To cancel your subscription, go to Settings > Subscription > Cancel. You'll continue to have access until the end of your billing period. No refunds for partial months."
+  },
+  {
+    "id": "two-factor-auth",
+    "title": "Two-Factor Authentication",
+    "content": "Enable 2FA from Settings > Security > Two-Factor Authentication. You can use SMS or an authenticator app. We highly recommend enabling 2FA for account security."
+  }
+]
