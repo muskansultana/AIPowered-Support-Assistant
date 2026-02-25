@@ -79,7 +79,7 @@ A full-stack AI-powered customer support chatbot application built with React, N
 
 ```
 chatbot/
-├── chat-backend/                 # Node.js/Express backend
+├── backend/                 # Node.js/Express backend
 │   ├── src/
 │   │   ├── index.ts             # Main server entry point
 │   │   ├── config/
@@ -144,12 +144,12 @@ chatbot/
 
 1. **Install dependencies**
    ```bash
-   cd chat-backend
+   cd backend
    npm install
    ```
 
 2. **Configure environment variables**
-   Create a `.env` file in `chat-backend/`:
+   Create a `.env` file in `backend/`:
    ```env
    PORT=8000
    NODE_ENV=development
@@ -158,6 +158,10 @@ chatbot/
    MAX_TOKENS=2000
    TEMPERATURE=0.7
    CORS_ORIGIN=http://localhost:3000
+   RATE_LIMIT_CHAT_MAX=20
+   RATE_LIMIT_CHAT_WINDOW_MS=60000
+   RATE_LIMIT_GENERAL_MAX=100
+   RATE_LIMIT_GENERAL_WINDOW_MS=60000
    ```
 
 3. **Initialize database**
