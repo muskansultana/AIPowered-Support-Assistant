@@ -2,7 +2,7 @@ import axios from "axios";
 import { Message, ChatResponse } from "./types";
 
 const API = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || "http://localhost:8000/api",
+  baseURL: process.env.REACT_APP_API_URL || "https://aipowered-support-assistant.onrender.com/api",
   timeout: 30000,
 });
 
